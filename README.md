@@ -2,8 +2,8 @@
 
 This project is a dynamic **web-based information screen** designed to be displayed at the entrance of the **Université de Montréal**. It cycles through a series of informative and engaging panels aimed at students, visitors, and staff.
 
-<p align="center" width="180">
-  <img src="diro/udemlogo.png">
+<p align="center">
+  <img src="diro/udemlogo2.png">
 </p>
 
 ## 🎯 Purpose
