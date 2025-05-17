@@ -10,6 +10,18 @@ To provide a modern, real-time, and visually appealing display featuring:
 - Updates from the DIRO department  
 - Countdown to key events  
 
+## 🚀 Setup Instructions
+
+To run the project locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/tidjanioff/umontreal-infoboard.git 
+    ```
+
+2. Open `tv.html` in your browser.  
+⚠️ API keys may be required for weather data to function fully.
+
 ## 🧩 Screen Overview
 
 The display consists of **6 full-screen panels** that can rotate automatically:
