@@ -24,7 +24,6 @@ To run the project locally:
     ```
 
 2. Open `tv.html` in your browser.  
-⚠️ API keys may be required for weather data to function fully.
 
 ## 🧩 Screen Overview
 
