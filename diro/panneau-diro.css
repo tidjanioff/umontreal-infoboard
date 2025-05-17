@@ -1,0 +1,68 @@
+#panneau-diro {
+	background-image: url(DIRO5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nouvelles {
+	display: flex;
+	justify-content: center;
+	margin-top: 70px;
+}
+
+#diroTitle {
+	display: flex;
+	justify-content: center;
+	font-family: "Quicksand", sans-serif;
+	letter-spacing: 5px;
+	margin-top: 20px;
+	color: rgb(164, 212, 254);
+	font-size: 7vh;
+	font-weight: bold;
+}
+
+.titre p {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	padding-top: 6vh;
+	padding-left: 1vh;
+	font-size: 4vh;
+	text-align: left;
+	text-justify: auto;
+	font-weight: 200;
+	color: black;
+	width: 90%;
+	height: 18vh;
+}
+
+.nouvelle {
+	opacity: 0.8;
+	visibility: visible;
+	width: 99%;
+	height: 22vh;
+	background-color: aliceblue;
+	display: inline-flex;
+	border: solid;
+	border-color: black;
+}
+
+
+#container {
+	display: flexbox;
+	width: 70%;
+	height: 100%;
+	font-size:5vh;
+}
+
+
+.image {
+	border: solid;
+}
+
+
+.image img{
+	margin-top: 0vh;
+	width: 25vh;
+	height: 19vh;
+}
+
+

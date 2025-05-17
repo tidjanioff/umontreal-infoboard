@@ -1,0 +1,52 @@
+#montreal-time {
+    font-family:  "League Spartan", sans-serif;
+    font-size: 6vh;
+    font-style: normal;
+    position:absolute;
+    top:22vh;
+    right:20vh;
+    color:yellow;
+    text-align:right;
+    line-height:1.0;
+
+}
+
+/** météo **/
+
+#divTemperature {
+    width: 30%;
+}
+
+#thermometre {
+    font-size: x-large;
+    position: absolute;
+    top: -100px; 
+    left: 140px; 
+    color: white;
+}
+
+.icon{
+    width: 120px;
+    position: absolute;
+    top: 5%; 
+    left: 5.7%; 
+}
+.laTemperature{
+    font-size: 50px;
+    position: absolute;
+    top: 18%; 
+    left: 6.85%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.mtl{
+    font-size: 30px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: lighter;
+    letter-spacing: 10px;
+    color:yellow;
+    position: absolute;
+    top: 23%; 
+    left: 3%; 
+}
+

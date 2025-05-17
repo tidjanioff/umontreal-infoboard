@@ -1,0 +1,12 @@
+#countdown {
+    font-family:  "League Spartan", sans-serif;
+    font-size: 6vh;
+    font-style: normal;
+    position:absolute;
+    bottom:50vh;
+    right:18.4vh;
+    color:rgb(255, 255, 255);
+    text-align:right;
+    line-height:1.0;
+    font-weight: bold;
+}

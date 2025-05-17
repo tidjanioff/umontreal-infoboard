@@ -1,0 +1,18 @@
+#countdown2 {
+    font-family:  "League Spartan", sans-serif;
+    font-size: 6vh;
+    font-style: normal;
+    position:absolute;
+    bottom:35vh;
+    right:75vh;
+    color:rgb(23, 37, 36);
+    text-align:right;
+    line-height:1.0;
+    font-weight: bold;
+    background-color: white;
+
+}
+.gros {
+    font-weight: bold;
+    color: aliceblue;
+}
