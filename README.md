@@ -55,7 +55,7 @@ The display consists of **6 full-screen panels** that can rotate automatically:
 
 - Live countdown to the graduation day for the **2024 cohort**   
 
-### 6. Signature / "Copyright" Screen
+### 6. Signature Screen
 
 - A visually stylish closing screen  
 - Displays the creator’s informations 
