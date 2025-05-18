@@ -12,7 +12,13 @@ To provide a modern, real-time, and visually appealing display featuring:
 
 - Useful daily information  
 - Updates from the DIRO department  
-- Countdown to key events  
+- Countdown to key events 
+
+## 🎬 Live Demo
+
+Check out the live demo of the InfoBoard in action:
+
+🎥 [Live Demo on YouTube](https://youtu.be/-JBr8QRUFIU)
 
 ## 🚀 Setup Instructions
 
