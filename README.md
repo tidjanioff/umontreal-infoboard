@@ -102,4 +102,4 @@ The display consists of **6 full-screen panels** that can rotate automatically:
 
 ---
 
-© 2024 UMontreal InfoBoard | Built by Tidjani. All rights reserved.
+© 2024 **UMontreal InfoBoard** | Built by Tidjani. All rights reserved.
