@@ -68,6 +68,37 @@ The display consists of **6 full-screen panels** that can rotate automatically:
   - Weather API : OpenWeatherMap
   - DIRO API  
 
+## 📁 Project Structure
+
+- `UMONTREAL-INFOBOARD/`
+  - `copyright/`
+    - `fond.png` – Background image
+  - `diro/`
+    - `DIRO5.png` – Background image with DIRO logo
+    - `panneau-diro.css` – Styles for DIRO panel
+    - `panneau-diro.js` – Logic for DIRO panel
+    - `udemlogo.png` – UdeM logo image
+    - `udemlogo2.png` – Alternative UdeM logo image
+  - `graduation/`
+    - `graduation.png` – Graduation image at UdeM
+    - `panneau-graduation.css` – Styles for graduation panel
+    - `panneau-graduation.js` – Logic for graduation panel
+  - `joparis/`
+    - `parisjo.png` – Paris image with JO logo
+    - `panneau-jo.css` – Styles for JO panel
+    - `panneau-jo.js` – Logic for JO panel
+  - `presentation/`
+    - `tidjani5.png` – Tidjani's photo
+  - `udem/`
+    - `bruines.png`, `brume.png`, `neige.png`, `nuages.png`, `pluie.png`, `soleil.png` – Weather condition icons
+    - `udemGate4.png` – Gate image of UdeM
+    - `panneau-udem.css` – Styles for UdeM panel
+    - `panneau-udem.js` – Logic for UdeM panel
+  - `panneaux.css` – General styles for all panels
+  - `panneaux.js` – General logic for all panels
+  - `README.md` – Project documentation
+  - `tv.html` – Main HTML file to render the infoboard
+
 
 ---
 
